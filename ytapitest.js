@@ -9,7 +9,7 @@ gapi = require('gapi');
 // CoffeeScript.register();
 
 
-// gapi.server.setAPIKey('AIzaSyBb3CERXPDneiwCmggE506LgYqs88vkTAI');
+// gapi.server.setAPIKey('kkey here');
 
 // gapi.server.load('youtube', 'v3', ()=>{
 //     var request = gapi.server.youtube.channels.list({
